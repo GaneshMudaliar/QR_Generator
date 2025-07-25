@@ -13,3 +13,8 @@ A simple and fast QR Code Generator built with **React** and **Vite**. Users can
 
 npm install
 npm run dev
+
+# Demo Link
+
+[QR Generator](https://generateqr150.netlify.app/)
+
