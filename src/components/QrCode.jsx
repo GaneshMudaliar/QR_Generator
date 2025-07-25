@@ -85,9 +85,7 @@ function downloadQR() {
         <button className='download-btn' onClick={downloadQR} >Download QR Code</button>
 
       </div>
-      <p className='footer'>
-        Designed by <a href='https://www.youtube.com/'>Youtube</a>
-    </p>
+     
 
     </div>
 
